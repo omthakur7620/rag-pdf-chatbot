@@ -33,6 +33,8 @@ Answer + Context + Confidence
 
 ---
 
+![alt text](image.png)
+
 ## 📂 Project Structure
 
 rag-pdf-chatbot/
@@ -126,3 +128,4 @@ Clear separation between ingestion, retrieval, and UI layers
 PDF ingestion is performed once; querying is fast afterward
 The chatbot never uses external knowledge
 All answers are derived strictly from the provided ebook
+
